@@ -1,1 +1,9 @@
 # food
+
+## Zuckeralternativen
+
+* Früchte: Melone, Banane, Birne, Trauben
+* Trockenfrüchte: Rosinen, Datteln, Feigen, Ananas, Mango, Aprikosen
+* Dicksaft: Äpfel, Birnen, [Sweet Freedom Original](http://www.boutique-vegan.com/food/condiments/sweeteners/Sweet-Freedom-Original.html?listtype=search&searchparam=sweet%20freedom)
+* Steviablätter
+
